@@ -1,0 +1,26 @@
+{
+  "name": "angular-base-controller",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Babics <bbabics@gmail.com>"
+  ],
+  "description": "angular base controller with inheritance and hooks",
+  "main": "angular-base-controller.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
